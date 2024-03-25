@@ -2,15 +2,16 @@
 
 # Project Name
 
-> One paragraph statement about the project.
+> Recipes Favorites
 
-![screenshot](./app_screenshot.png)
+
+![screenshot](./images.jpg)
 
 Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
+- Major languages 
 - Frameworks
 - Technologies used
 
@@ -27,7 +28,7 @@ Additional description about the project and its features.
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Prerequisites 
 
 ### Setup
 
@@ -45,19 +46,19 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Arístides José Molina Pérez**
 
-- GitHub: [@aristides1000](https://github.com/aristides1000)
-- Twitter: [@aristides_1000](https://twitter.com/aristides_1000)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aristides-molina/)
+- GitHub: [@aristides1000](https://github.com/@JoseRafaelTaracheGonzalez)
+- Twitter: [@aristides_1000](https://twitter.com/FakeDude)
+-
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/     )
+- Twitter: [@twitterhandle](https://twitter.com/FakeDude)
+- LinkedIn: [LinkedIn](https://josertgg.github.io/odin-recipes/)
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
+Contributions www.google.com
 
 Feel free to check the [issues page](issues/).
 
