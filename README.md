@@ -7,7 +7,7 @@
 This is a page created in html which shows various recipes with their ingredients and steps to prepare them.
 
 
-![screenshot](./Captura.PNG
+![screenshot](./Captura.PNG)
 
 Additional description about the project and its features.
 
